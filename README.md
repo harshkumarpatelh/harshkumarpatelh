@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Patel</h1>
 <h3 align="center">Hello! I'm passionate about the transformative potential of AI/ML and am constantly expanding my expertise in this dynamic field. With a focus on streamlining ML model deployment through platforms like Streamlit and AWS, I'm dedicated to driving innovation through collaboration and continuous learning. Currently refining my skills in React to enhance front-end development, I'm excited about crafting user-friendly interfaces for my ML projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkumarpatelh&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/harshpa94942441" target="blank"><img src="https://img.shields.io/twitter/follow/harshpa94942441?logo=twitter&style=for-the-badge" alt="harshpa94942441" /></a> </p>
 
